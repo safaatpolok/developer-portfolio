@@ -3,6 +3,7 @@ nav{
     
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .text-primary{
     color:#FD6E0A;
@@ -36,4 +37,16 @@ nav li{
 nav a{
     text-decoration: none;
     color: #474747;
+}
+/* header related style */
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .pofile-pic{
+    width: 500px;
 }
